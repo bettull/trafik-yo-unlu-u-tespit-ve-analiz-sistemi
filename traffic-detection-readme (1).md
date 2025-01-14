@@ -94,7 +94,7 @@ Değişikliklerinizi kaydedin ( git commit -m 'Add some AmazingFeature')
 Bir Çekme İsteği Açın
 
 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için LİSANS dosyasına bakın.
+Bu proje MIT Lisansı altında lisanslanmıştır.
 Teşekkürler
 
 Bilgisayar görüşü için OpenCV kütüphanesi kullanılarak oluşturuldu
@@ -102,7 +102,7 @@ GUI uygulaması için Tkinter'ı kullanır
 Modern trafik yönetim sistemlerinden ilham alındı
 
 Yazar
-[betül ]
+[BETÜL BAŞBOĞA]
 
 GitHub: @bettull
 E-posta: betulbasboga921@gmail.com
